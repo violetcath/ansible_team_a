@@ -1,0 +1,4 @@
+- name: File sample.txt
+  file:
+    path: /u01/{{ create_var }}
+    state: touch

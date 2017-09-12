@@ -1,1 +1,4 @@
+create_var: "devops/sample.txt"
 clone_var: "https://github.com/jembim/2017-git-bootcamp.git"
+
+

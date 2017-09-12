@@ -1,7 +1,7 @@
 - name: File sample.txt
   git:
     repo: "{{ clone_var }}"
-    dest: /u01/devops_bootcamp
+    dest: /u01/devops
     clone: yes
     update: yes
 

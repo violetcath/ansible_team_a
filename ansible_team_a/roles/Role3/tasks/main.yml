@@ -1,0 +1,6 @@
+- name: File sample.txt
+  fetch: 
+    src: "u01/"
+    dest: "/tmp"
+    flat: yes
+
