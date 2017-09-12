@@ -1,0 +1,7 @@
+- name: File sample.txt
+  git:
+    repo: "https://github.com/jembim/2017-git-bootcamp.git"
+    dest: /u01/devops_bootcamp
+    clone: yes
+    update: yes
+
